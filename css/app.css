@@ -1,0 +1,119 @@
+h1,h2,h3, h5, h6, ol, ul, li  {
+	font-family: "Raleway", sans-serif; color: #eee;.
+	padding: 10px
+}
+
+header {
+	padding: 0px;
+
+	
+}
+
+header h1 {
+}
+
+header h2 {
+}
+
+h1 {
+	font-size: 40px;
+	padding-top: 80px;
+	padding-bottom: 0px;
+	line-height: 0px;
+}
+
+h2 {
+	font-size: 25px;
+	line-height: 55px;
+	padding-bottom: 30px;
+}
+
+h3 {
+	background-color: #E9A664;
+}
+
+h4 {font-size: 25px;
+	line-height: 0px;
+	padding-top: 25px;
+	padding-bottom: 15px;
+	color: #FFFFFF;
+	background-color: #1C2424;
+	font-family: "Raleway"
+}
+
+h6 {
+	font-size: 20px;
+	text-align: left;
+	padding-bottom: 15px;
+	padding-top: 15px;
+	padding-left: 15px;
+	background-color: #333;
+}
+
+h5 {
+	font-size: 20px;
+	text-align: left;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 15px;
+	background-color: #4a4a4a;
+}
+
+p {
+	padding-bottom: 20px;
+	padding-top: 0px;
+	font-family: "Raleway";
+	color: #FFFFFF;
+}
+
+label {
+	color: #FFFFFF;
+	font-family: "Raleway";
+}
+
+.bg1 {
+  background-image: url("1.jpg");
+  background-repeat: no-repeat;
+  padding-top: 0px;
+  padding: 0px;
+  background-attachment: scroll;
+}
+
+.hero {
+}
+
+.hero h3 {
+padding: 10px
+
+}
+
+.hotelMission {
+	padding: 10px;
+	padding-left: 20px;
+
+}
+
+
+footer {
+color: #eee;
+background-color: #1C2424;
+position:fixed;
+bottom:0;
+width:100%;
+height:30px;   /* Height of the footer */
+
+}
+
+li {
+color: #FFFFFF;
+	font-family: "Raleway";
+	}
+
+
+/* Medium and up */
+@media screen and (min-width: 45em) {
+ 
+}
+
+
+
